@@ -1,0 +1,72 @@
+body {
+    background-color: #0b101e;
+}
+#Titulo-principal {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: #00e5ff;
+}
+.Campos-de-texto {
+    background-color: #1a2235;
+    color: aliceblue;
+    padding: 20px;
+    margin: 15px;
+}
+.Correo {
+    background-color: #1a2235;
+    color: aliceblue;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Contraseña {
+    background-color: #1a2235;
+    color: aliceblue;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Descripción {
+    background-color: #1a2235;
+    color: aliceblue;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Opciones {
+    background-color: #1a2235;
+    color: aliceblue;
+    padding: 20px;
+    margin: 15px;
+}
+.Registro {
+    background-color: #1a2235;
+    color: aliceblue;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Registro input {
+
+    background-color: #00e5ff;
+    border: #0b101e;
+    color: #0b101e;
+    padding: 10px;
+}
+input{
+    border-radius: 5px;
+    border: #00e5ff;
+    padding: 10px;
+}
+
+textarea {
+    border-radius: 5px;
+    border: #00e5ff;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+
+
+
+
